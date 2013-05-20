@@ -2,7 +2,7 @@ Just-in-time development for Python is a framework where you can develop your Py
 
 Example of function development:
 
-For example, FuncModify.py:replace_code:
+For example, [FuncModify.py](https://github.com/albertz/PythonHotswap/blob/master/FuncModify.py):`replace_code`:
 
 When writing the function, you specify some example input. Then, while writing it, it instancely also evaluates it. While editing, it tries to intelligently detect what to re-evaluate but the user can also do it manually.
 
